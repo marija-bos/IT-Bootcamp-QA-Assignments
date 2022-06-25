@@ -1,1 +1,1 @@
-# IT-Bootcamp-QA-Domaci
+# IT-Bootcamp-QA-Assignments
